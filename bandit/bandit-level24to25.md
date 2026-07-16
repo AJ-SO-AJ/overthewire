@@ -1,4 +1,4 @@
-# Level 24 to 25
+# Level 24 -> 25
 
 For this one, there's a server listening to our input on port 30002. The input we need is the previous password + a 4 digit pin. If that combo (pass + pin) is correct, the server will give us the password for the next level and exit.
 
