@@ -1,4 +1,4 @@
-Level 0 -> 1:
+# Level 0 -> 1:
 Password is given to us in base64 format. We can simply decode it and find out the password, use that upon SSH login.
 - Base64: S1JZUFRPTklTR1JFQVQ=
 - Decode: echo "S1JZUFRPTklTR1JFQVQ=" | base64 -d
